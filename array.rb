@@ -22,3 +22,5 @@ puts b.unshift(50)
 # join("-") :- will join the two array between their value as per their value with - seperator
 # replace
 # reverse 
+c=a.join("-")
+puts "It will seperate every element of array #{c}"
