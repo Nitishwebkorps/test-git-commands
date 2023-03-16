@@ -22,3 +22,4 @@ puts b.unshift(50)
 # join("-") :- will join the two array between their value as per their value with - seperator
 # replace
 # reverse 
+puts "Index element #{a[0]}"
